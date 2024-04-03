@@ -1,0 +1,19 @@
+============================================== test session starts ==============================================
+platform win32 -- Python 3.8.8, pytest-6.2.3, py-1.10.0, pluggy-0.13.1 -- C:\Users\SAMARTH\anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\SAMARTH\Desktop\Neural Networks Assignment 2\Kamangar_02
+plugins: anyio-2.2.0
+collected 12 items
+
+tests_v3.py::test_random_weight_init PASSED                                                                					[  8%]
+tests_v3.py::test_weight_update_mse PASSED                                                                					[ 16%]
+tests_v3.py::test_weight_update_cross_entropy PASSED                                                       					[ 25%]
+tests_v3.py::test_weight_update_svm PASSED                                                                 					[ 33%]
+tests_v3.py::test_assign_weights_by_value PASSED                                                           					[ 41%]
+tests_v3.py::test_error_output_dimensions PASSED                                                           					[ 50%]
+tests_v3.py::test_error_vals_mse PASSED                                                                                                          [ 58%]  
+tests_v3.py::test_error_vals_cross_entropy PASSED                                                                                                [ 66%]  
+tests_v3.py::test_initial_validation_output PASSED                                                                                               [ 75%]  
+tests_v3.py::test_many_layers PASSED                                                                                                             [ 83%]  
+tests_v3.py::test_batch_sizes PASSED                                                                                                              [ 91%] 
+tests_v3.py::test_set_weights PASSED                                                                                                              [100%]

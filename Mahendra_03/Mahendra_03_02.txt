@@ -1,0 +1,14 @@
+================================================================== test session starts ==================================================================
+platform win32 -- Python 3.8.8, pytest-6.2.3, py-1.10.0, pluggy-0.13.1 -- C:\Users\SAMARTH\anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\SAMARTH\Desktop\NN Assignment 3\Kamangar_03\Kamangar_03
+plugins: anyio-2.2.0
+collected 7 items
+
+Assignment_03_tests.py::test_seed_called PASSED                                                                                                    [ 14%]
+Assignment_03_tests.py::test_model_architecture PASSED                                                                                             [ 28%]
+Assignment_03_tests.py::test_save_model PASSED                                                                                                     [ 42%]
+Assignment_03_tests.py::test_confusion_matrix PASSED                                                                                               [ 57%]
+Assignment_03_tests.py::test_confusion_matrix_plot PASSED                                                                                          [ 71%]
+Assignment_03_tests.py::test_accuracy_on_mnist PASSED                                                                                              [ 85%]
+Assignment_03_tests.py::test_ypred PASSED                                                                                                          [100%]
